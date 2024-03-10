@@ -1,7 +1,7 @@
 {
-"engines": {
-"node": "20.11.1"
-},
+  "engines": {
+    "node": "20.11.1"
+  },
   "name": "learningphase",
   "version": "1.0.0",
   "description": "",
